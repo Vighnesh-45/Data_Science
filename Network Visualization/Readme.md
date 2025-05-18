@@ -1,4 +1,4 @@
-# Corporate Training and Course Network Visualizations
+# Network Visualizations
 
 This repository contains interactive visualizations and experimental work related to corporate training and organizational course networks, built using the [vis-network](https://visjs.github.io/vis-network/) JavaScript library, along with analysis in a Jupyter notebook.
 
